@@ -24,7 +24,7 @@
 ### 🌐 Connect with Me  
 <p align="center">
   <a href="mailto:solomonYedidya5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=spin"/></a>
-  <a href="https://linkedin.com/in/your-link" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=glitch"/></a>
+  <a href="www.linkedin.com/in/yedidya-solomon-2a1256322" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=glitch"/></a>
   <a href="https://github.com/YedidyaSolomon" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&animation=pulse"/></a>
 </p>
 
