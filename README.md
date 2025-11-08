@@ -79,7 +79,7 @@
 
 ### 🏆 Achievements  
 - 🥇 Built a working **Payment Gateway API** integrated with Chapa  
-- 🚀 Developed and deployed **Custom Payment Aggregator** on Telecloude  
+- 🚀 Developed and deployed **Custom Payment Aggregator**   
 - 🛍️ Completed an **end-to-end E-commerce system** with real payment integration  
 - 💼 Internship at TamCon Software Solutions  
 - 🧠 Constantly improving **backend architecture & fintech solutions**  
