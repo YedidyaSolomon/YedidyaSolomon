@@ -10,15 +10,15 @@
 ---
 
 ### 🚀 About Me  
-- 🔭 I’m currently working on **a Payment Gateway API using Flask & Chapa** (in progress — check my GitHub)  
-- 💡 Built and deployed **a custom Payment Aggregator** using Node.js/Express — currently integrated with **Chapa**, future-ready for more gateways  
-- 🛍️ Developed **Online Cosmetics Shop** — backend with Node.js/Express, integrated with my payment aggregator; full **add to cart → checkout → payment** flow   
-- 💼 Completed **internship at TamCon Software Solutions**, gaining real-world web dev experience  
-- 🌦️ Built a **Weather App** using React  
-- 🎯 Goal: Build **secure, scalable, and user-friendly fintech & web systems**  
-- 💬 Ask me about **Flask, Node.js, React, APIs, Payment Integrations  
-- 📫 Reach me: **[solomonYedidya5@gmail.com](www.linkedin.com/in/yedidya-solomon-2a1256322)**  
-- ⚡ Fun fact:  I debug faster after coffee ☕   
+🔭 I’m currently working on **a Payment Gateway API using Flask & Chapa** (in progress — check my GitHub)  
+ 💡 Built and deployed **a custom Payment Aggregator** using Node.js/Express — currently integrated with **Chapa**, future-ready for more gateways  
+🛍️ Developed **Online Cosmetics Shop** — backend with Node.js/Express, integrated with my payment aggregator; full **add to cart → checkout → payment** flow   
+ 💼 Completed **internship at TamCon Software Solutions**, gaining real-world web dev experience  
+ 🌦️ Built a **Weather App** using React  
+ 🎯 Goal: Build **secure, scalable, and user-friendly fintech & web systems**  
+ 💬 Ask me about **Flask, Node.js, React, APIs, Payment Integrations  
+ 📫 Reach me: **[solomonYedidya5@gmail.com](www.linkedin.com/in/yedidya-solomon-2a1256322)**  
+ ⚡ Fun fact:  I debug faster after coffee ☕   
 
 ---
 
@@ -82,11 +82,11 @@
 ---
 
 ### 🏆 Achievements  
-- 🥇 Built a working **Payment Gateway API** integrated with Chapa  
-- 🚀 Developed and deployed **Custom Payment Aggregator**   
-- 🛍️ Completed an **end-to-end E-commerce system** with real payment integration  
-- 💼 Internship at TamCon Software Solutions  
-- 🧠 Constantly improving **backend architecture & fintech solutions**  
+ 🥇 Built a working **Payment Gateway API** integrated with Chapa  
+ 🚀 Developed and deployed **Custom Payment Aggregator**   
+ 🛍️ Completed an **end-to-end E-commerce system** with real payment integration  
+ 💼 Internship at TamCon Software Solutions  
+ 🧠 Constantly improving **backend architecture & fintech solutions**  
 
 
 
