@@ -8,10 +8,6 @@
 
 
 ---
-
-### 🚀 About Me  
-I'm a passionate backend developer building the bridge between ideas and secure, scalable functionality. 
-
 ### 🚀 What I'm Up To
 - **🔨 Building:** A secure Payment Gateway API using **Flask & Chapa**
 - **⭐ Proud of:** Developing a custom **Payment Aggregator** with Node.js/Express (integrated with Chapa, designed for easy expansion to other gateways)
