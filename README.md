@@ -62,8 +62,8 @@
 #### 🌦️ Weather App (React)
 > 🌤️ Simple, responsive weather forecast app using live APIs.
 
-#### 🧑‍💻 Fiverr-like Freelance Platform (In Progress)
-> 💼 Ongoing project replicating Fiverr service model.
+#### 🧑‍💻 Fiverr-like Freelance Platform 
+> 💼 a project replicating Fiverr service model.
 
 ---
 
