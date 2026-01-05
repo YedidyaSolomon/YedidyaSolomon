@@ -66,21 +66,20 @@
 > 💼 a project replicating Fiverr service model.
 
 ---
-
-### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YedidyaSolomon&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&line_height=25"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YedidyaSolomon&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YedidyaSolomon&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=YedidyaSolomon&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YedidyaSolomon&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YedidyaSolomon&theme=github-dark&hide_border=true" />
 </p>
 
 ---
+
 
 ### 🏆 Achievements  
  🥇 Built a working **Payment Gateway API** integrated with Chapa  
